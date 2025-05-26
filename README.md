@@ -62,7 +62,8 @@ Analyzing-Stock-Revenue-Dashboard/
 
 ## 📽️ Dashboard Preview
 
-> *Include screenshots or a link to the dashboard here*
+> *![Screenshot 2025-05-26 223618](https://github.com/user-attachments/assets/613d420a-5a3b-4813-8575-4f21c7d16f07)
+*
 
 ---
 
